@@ -1,2 +1,0 @@
-# Chronometer
-Created with CodeSandbox
